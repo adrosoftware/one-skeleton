@@ -1,0 +1,6 @@
+.env
+vendor
+build
+composer.lock
+.DS_Store
+html
